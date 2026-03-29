@@ -114,14 +114,6 @@ Currently pursuing **BSCS at FAST-NUCES** (2022–2026). I build AI products tha
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asiifshahzad&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiifshahzad&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
-
----
 
 ## Let's Connect
 
